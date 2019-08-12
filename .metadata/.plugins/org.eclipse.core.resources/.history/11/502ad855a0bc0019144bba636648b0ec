@@ -20,9 +20,5 @@ public class Testmessage {
 		System.out.println("StepTwoDone");
 	}
 	
-	public static void printthree() {
-		System.out.println("StepTwoDone");
-	}
-	
 
 }
